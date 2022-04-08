@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomislav, and I come from Croatia.
-- 👀 I’m interested in becoming a full-stack development.
+- 👀 I’m interested in becoming a full-stack developer.
 - 🌱 I’m currently learning how to work with HTML, CSS, JS, Bootstrap and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on tome91@windowslive.com
